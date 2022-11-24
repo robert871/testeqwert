@@ -1,0 +1,22 @@
+header{
+  
+position: absolute;
+top: 5px;
+font-size: 26pt;
+color: azure;
+}
+img{
+    height: 300px;
+}
+div{
+    background-color: #08121e;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    left: 0;
+}
+button{
+    border: none;
+    color: azure;
+    background-color: transparent;
+    font-size: 26pt;}
